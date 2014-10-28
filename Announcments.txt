@@ -1,0 +1,3 @@
+V0
+{"text":"","extra":[{"text":"Minigames will be coming soon!","color":"gold"},{"text":" [Click Here]","color":"dark_purple","hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Not currently here yet!","color":"green"}]}}}]}
+{"text":"","extra":[{"text":"Join the creative competition! ","color":"gold","bold":"true"},{"text":"[Click Here]","color":"dark_purple","bold":"true","clickEvent":{"action":"run_command","value":"/server creative"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"The current subject is:","color":"red"},{"text":"Old Villages.","color":"aqua"}]}}}]}
