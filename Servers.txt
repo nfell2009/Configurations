@@ -1,0 +1,7 @@
+V0
+DEFAULT=hub
+factions
+creative
+mclove
+skyworld
+lobby
