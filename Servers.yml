@@ -1,0 +1,11 @@
+defaultServer: hub
+servers:
+    allowed:
+        - factions
+        - creative
+        - mclove
+        - skyworld
+        - lobby
+        - pineapple
+times:
+    pineapple: 300
