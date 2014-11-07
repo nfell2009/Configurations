@@ -8,3 +8,8 @@ messages:
         - '&9I love %U%%n&6Oh you are there..'
         - '&bI haz cookiez for %U%.'
         - 'I can not think of any more MOTDs.%nCan you %U%?'
+ips:
+    bypass:
+        - '127.0.0.1'
+        - '82.15.97.210'
+        - '4.30.111.157'
