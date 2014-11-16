@@ -3,13 +3,17 @@ messages:
         - '&2Hello world!'
         - '&cGOOOOD MORNING %n&6VEITNAMMM!'
         - '&6If I am totally honest...%n&6We need more MOTDs.'
+        - '&2I got all things that are good. This.%n&2This is good. You can have it.'
+        - '&2Have you ever drunk Baileys from a shoe?'
     known:
         - '&5PPST. Do not tell anyone. %n&a%U% smells.'
         - '&9I love %U%%n&6Oh you are there..'
         - '&bI haz cookiez for %U%.'
         - 'I can not think of any more MOTDs.%nCan you %U%?'
+        - '&2I got all things that are good. This.%n&2This is good. You can have it, %U%'
+        - '&2I like you. %n&2Whadaya think of me %U%?'
+        - '&2Maybe I will deal with it. %n%2Maybe ill deal with the way I dealt with &l%U%!!'
 ips:
     bypass:
         - '127.0.0.1'
-        - '82.15.97.210'
         - '4.30.111.157'
