@@ -1,4 +1,4 @@
-delay: 120
+delay: 180
 noBroadcastServers:
     - pineapple
 messages:
