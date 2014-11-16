@@ -12,7 +12,7 @@ messages:
         - 'I can not think of any more MOTDs.%nCan you %U%?'
         - '&2I got all things that are good. This.%n&2This is good. You can have it, %U%'
         - '&2I like you. %n&2Whadaya think of me %U%?'
-        - '&2Maybe I will deal with it. %n%2Maybe ill deal with the way I dealt with &l%U%!!'
+        - '&2Maybe I will deal with it. %n&2Maybe ill deal with the way I dealt with &l%U%!!'
 ips:
     bypass:
         - '127.0.0.1'
