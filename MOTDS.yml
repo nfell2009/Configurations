@@ -6,6 +6,7 @@ messages:
         - '&2I got all things that are good. This.%n&2This is good. You can have it.'
         - '&2Have you ever drunk Baileys from a shoe?'
         - '&2Do you know Alec55500?%n&4&lIf so Go Kill Yourself!!'
+        - '&2So long and thanks for all the fish'
     known:
         - '&5PPST. Do not tell anyone. %n&a%U% smells.'
         - '&9I love %U%%n&6Oh you are there..'
@@ -15,6 +16,7 @@ messages:
         - '&2I like you. %n&2Whadaya think of me %U%?'
         - '&2Maybe I will deal with it. %n&2Maybe ill deal with the way I dealt with &l%U%!!'
         - '&2Do you know Alec55500?%n&4&lIf so Go Kill Yourself!!'
+        - '&2So long and thanks for all the fish'
 ips:
     bypass:
         - '127.0.0.1'
