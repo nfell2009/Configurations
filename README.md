@@ -1,8 +1,4 @@
 Configurations
 ==============
-UPDATED SERVERS:
-	BuildServerWhitelist
-	Hub
-	Creative:
-		Nav item needs updating.
+A repository for configurations.
 	
