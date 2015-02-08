@@ -1,15 +1,15 @@
 messages:
     unknown:
-        - 'PMCabad7a01aa95730344a1aed51f587fee'
-        #- '&2Hello world!'
-        #- '&cGOOOOD MORNING %n&6VEITNAMMM!'
-        #- '&6If I am totally honest...%n&6We need more MOTDs.'
-        #- '&2I got all things that are good. This.%n&2This is good. You can have it.'
-        #- '&2Have you ever drunk Baileys from a shoe?'
-        #- '&2Do you know Alec55500?%n&4&lIf so Go Kill Yourself!!'
-        #- '&2So long and thanks for all the fish'
-        #- 'As long as men die, %nliberty will never perish'
-        #- '%U% Do you love me? Why, don't you love me?'
+        #- 'PMCabad7a01aa95730344a1aed51f587fee'
+        - '&2Hello world!'
+        - '&cGOOOOD MORNING %n&6VEITNAMMM!'
+        - '&6If I am totally honest...%n&6We need more MOTDs.'
+        - '&2I got all things that are good. This.%n&2This is good. You can have it.'
+        - '&2Have you ever drunk Baileys from a shoe?'
+        - '&2Do you know Alec55500?%n&4&lIf so Go Kill Yourself!!'
+        - '&2So long and thanks for all the fish'
+        - 'As long as men die, %nliberty will never perish'
+        - 'Do you love me? Why, don't you love me?'
     known:
         - '&5PPST. Do not tell anyone. %n&a%U% smells.'
         - '&9I love %U%%n&6Oh you are there..'
@@ -20,6 +20,7 @@ messages:
         - '&2Maybe I will deal with it. %n&2Maybe ill deal with the way I dealt with &l%U%!!'
         - '&2Do you know Alec55500?%n&4&lIf so Go Kill Yourself!!'
         - '&2So long and thanks for all the fish'
+        - '%U% Do you love me? Why, don't you love me?'
 ips:
     bypass:
         - '127.0.0.1'
