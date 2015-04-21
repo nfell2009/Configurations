@@ -7,5 +7,6 @@ servers:
         - skyworld
         - lobby
         - pineapple
+        - cdev
 times:
     pineapple: 300
