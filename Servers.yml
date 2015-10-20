@@ -9,4 +9,4 @@ servers:
         - pineapple
         - cdev
 times:
-    pineapple: 300
+    nc: 300
